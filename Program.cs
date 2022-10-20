@@ -1,6 +1,6 @@
 ﻿//Kenneth Fujimura
 //Last accessed: 10-19-2022
-//Mini Challenge # 7 - Reverse It
+//GitHub Challenge # 7 - Reverse It
 //This program takes in a number input from the user and then reverses it and reports that back to the user.
 //Peer reviewed by:
 
