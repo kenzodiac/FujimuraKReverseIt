@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/kennethfujimura/.nuget/packages/": {}
+    "C:\\Users\\rsgoo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraReverseIt/KFujimuraReverseIt.csproj",
+      "projectUniqueName": "C:\\Users\\rsgoo\\FujimuraKReverseIt\\KFujimuraReverseIt.csproj",
       "projectName": "KFujimuraReverseIt",
-      "projectPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraReverseIt/KFujimuraReverseIt.csproj",
-      "packagesPath": "/Users/kennethfujimura/.nuget/packages/",
-      "outputPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraReverseIt/obj/",
+      "projectPath": "C:\\Users\\rsgoo\\FujimuraKReverseIt\\KFujimuraReverseIt.csproj",
+      "packagesPath": "C:\\Users\\rsgoo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rsgoo\\FujimuraKReverseIt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kennethfujimura/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\rsgoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

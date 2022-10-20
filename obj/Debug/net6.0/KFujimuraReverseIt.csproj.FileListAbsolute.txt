@@ -1,0 +1,15 @@
+C:\Users\rsgoo\FujimuraKReverseIt\bin\Debug\net6.0\KFujimuraReverseIt.exe
+C:\Users\rsgoo\FujimuraKReverseIt\bin\Debug\net6.0\KFujimuraReverseIt.deps.json
+C:\Users\rsgoo\FujimuraKReverseIt\bin\Debug\net6.0\KFujimuraReverseIt.runtimeconfig.json
+C:\Users\rsgoo\FujimuraKReverseIt\bin\Debug\net6.0\KFujimuraReverseIt.dll
+C:\Users\rsgoo\FujimuraKReverseIt\bin\Debug\net6.0\KFujimuraReverseIt.pdb
+C:\Users\rsgoo\FujimuraKReverseIt\obj\Debug\net6.0\KFujimuraReverseIt.csproj.AssemblyReference.cache
+C:\Users\rsgoo\FujimuraKReverseIt\obj\Debug\net6.0\KFujimuraReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsgoo\FujimuraKReverseIt\obj\Debug\net6.0\KFujimuraReverseIt.AssemblyInfoInputs.cache
+C:\Users\rsgoo\FujimuraKReverseIt\obj\Debug\net6.0\KFujimuraReverseIt.AssemblyInfo.cs
+C:\Users\rsgoo\FujimuraKReverseIt\obj\Debug\net6.0\KFujimuraReverseIt.csproj.CoreCompileInputs.cache
+C:\Users\rsgoo\FujimuraKReverseIt\obj\Debug\net6.0\KFujimuraReverseIt.dll
+C:\Users\rsgoo\FujimuraKReverseIt\obj\Debug\net6.0\refint\KFujimuraReverseIt.dll
+C:\Users\rsgoo\FujimuraKReverseIt\obj\Debug\net6.0\KFujimuraReverseIt.pdb
+C:\Users\rsgoo\FujimuraKReverseIt\obj\Debug\net6.0\KFujimuraReverseIt.genruntimeconfig.cache
+C:\Users\rsgoo\FujimuraKReverseIt\obj\Debug\net6.0\ref\KFujimuraReverseIt.dll
